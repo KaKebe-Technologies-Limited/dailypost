@@ -30,7 +30,7 @@ include("config.php");
     <hr><br>
     <center><h2>Worship Centre Downtown</h2></center>
     
-
+<br>
             <nav>
             <div class="nav nav-tabs" id="nav-tab" role="tablist">
                 <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Home</button>
@@ -41,10 +41,6 @@ include("config.php");
             </nav>
             <div class="tab-content" id="nav-tabContent">
             <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-                
-                    
-            
-      
             </div>
             <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
             <div class="wrapper">
@@ -52,7 +48,7 @@ include("config.php");
             <div class="row">
                 <div class="col-md-12">
                     <div class="page-header">
-                        <h2>News Update</h2>
+                        <h2>News Updates</h2>
                     </div>
                     <p>Please fill this form and submit to add news</p>
                     <form action="insert.php" method="post">
